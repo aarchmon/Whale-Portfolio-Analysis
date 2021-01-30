@@ -26,6 +26,7 @@ With your _Python 3.7+_ environment, run the following commands via CLI:
 ```
 pip install pandas
 pip install matplotlib
+pip install seaborn
 ```
 
 ---
