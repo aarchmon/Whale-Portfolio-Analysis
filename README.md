@@ -1,6 +1,6 @@
 # Whale Portfolio Analysis
 
-![Whale Portfolio Analysis](./images/image_1.jpeg)
+![Whale Portfolio Analysis](./images/image_1.jpg)
 
 ---
 
