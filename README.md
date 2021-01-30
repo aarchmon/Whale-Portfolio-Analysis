@@ -30,6 +30,10 @@ pip install matplotlib
 
 ## Examples
 
+[Table](./images/image_2.jpg)
+
+[Plot](./images/image_3.jpg)
+
 ---
 
 ## Usage
