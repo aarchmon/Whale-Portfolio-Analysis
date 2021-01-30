@@ -15,6 +15,8 @@ Before attempting to execute any _Python_ code in `risk_return_analysis.ipynb`, 
 
 [matplotlib](https://matplotlib.org/) - Data visualization module.
 
+[seaborn](https://seaborn.pydata.org/) - Statistical data visualization module. 
+
 ---
 
 ## Installation Guide
