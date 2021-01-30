@@ -30,9 +30,9 @@ pip install matplotlib
 
 ## Examples
 
-[Table](./images/image_2.png)
+![Table](./images/image_2.png)
 
-[Plot](./images/image_3.png)
+![Plot](./images/image_3.png)
 
 ---
 
