@@ -15,6 +15,8 @@ Before attempting to execute any _Python_ code in `risk_return_analysis.ipynb`, 
 
 [matplotlib](https://matplotlib.org/) - Data visualization module.
 
+[seaborn](https://seaborn.pydata.org/) - Statistical data visualization module. 
+
 ---
 
 ## Installation Guide
@@ -24,15 +26,16 @@ With your _Python 3.7+_ environment, run the following commands via CLI:
 ```
 pip install pandas
 pip install matplotlib
+pip install seaborn
 ```
 
 ---
 
 ## Examples
 
-[Table](./images/image_2.jpg)
+![Table](./images/image_2.png)
 
-[Plot](./images/image_3.jpg)
+![Plot](./images/image_3.png)
 
 ---
 
